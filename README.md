@@ -3,7 +3,6 @@
 Proyecto grupal para la asignatura **Metodología de la Programación** (URJC).  
 Grupo 4: Nuria Amrani Villuendas, Ignacio Roncero Medina, Rim Afoud.
 
-Roles:
 
 ---
 
