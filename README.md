@@ -87,7 +87,6 @@ java -cp out metprog.Main
 
 ---
 
-## 5. Qué pedirá el programa al usuario
 
 ## 5. Qué pedirá el programa al usuario
 
